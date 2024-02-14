@@ -1,9 +1,9 @@
 import random
 ng = 1
 
-h = 64
+h = 100
 l = 1
-g = h/2
+g = int(h/2)
 
 #print ('Välj ett nummer')
 #number = int(input())
